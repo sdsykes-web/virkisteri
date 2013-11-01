@@ -1,1 +1,1 @@
-![](//virkisteri_www_1113.png)
+![](/images/virkisteri_www_1113.png)
