@@ -13,7 +13,10 @@
   <center>
     <div id="background">
       <div id="shadow">
-          <div id="logo"></div>
+        <div id="main-relative">
+          <a href="index.html">
+            <div id="logo"></div>
+          </a>
           <div id="heading">
             <div id="heading-text">
               Hyvinvoiva mieli asuu
@@ -29,9 +32,29 @@
             <div id="pic2"></div>
             <div id="pic1"></div>
           </div>
+          <ul id="menu">
+            <a href="henkilostoliikunta.html"><li id="menu1" class="{{ page.menu1 }}">henkilöstöliikunta</li></a>
+            <a href="liikunta.html"><li id="menu2" class="{{ page.menu2 }}">liikunta</li></a>
+            <a href="tunnit.html"><li id="menu3" class="{{ page.menu3 }}">tunnit &amp; kurssit</li></a>
+            <a href="fysioterapia.html"><li id="menu4" class="{{ page.menu4 }}">fysioterapia</li></a>
+          </ul>
+          <div id="contact">
+            <div id="contact-text">
+              <div id="contact-take">
+                OTA YHTEYTTÄ!
+              </div>
+              <div id="contact-email">
+                <a href="mailto:riikka@virkisteri.fi">riikka@virkisteri.fi</a>
+              </div>
+              <div id="contact-phone">
+                puh. 040 5503 945
+              </div>
+            </div>
+          </div>
           <div id="content">
             {{ content }}
           </div>
+        </div>
       </div>
     </div>
   </center>

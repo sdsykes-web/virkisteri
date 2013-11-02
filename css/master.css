@@ -20,11 +20,16 @@ body {
   -webkit-box-shadow: 0px 0px 25px #fffff0;
 }
 
+#main-relative {
+  position: relative;
+}
+
 #logo {
   background-image: url(../images/virkisteri_www.jpg);  
   width: 343px;
   height: 160px;
   float: left;
+  border: 0;
 }
 
 #heading {
@@ -80,6 +85,94 @@ body {
   margin-top: 7px;
 }
 
+#menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#menu li {
+  width: 160px;
+  border: solid thin #b18b1e;
+  background-color: #fffff0;
+  font-family: "Noa Regular";
+  font-weight: bold;
+  padding-top: 4px;
+  text-align: center;
+}
+
+#menu li:hover {
+  background-color: #80133a;
+  color: #fffff0;
+}
+
+#menu li.lit {
+  background-color: #80133a;
+  color: #fffff0;  
+}
+
+#menu a {
+  text-decoration: none;
+  color: #6f6f6f;
+}
+
+#menu1 {
+  position: absolute;
+  top: 200px;
+  left: -60px;
+}
+
+#menu2 {
+  position: absolute;
+  top: 250px;
+  left: -60px;  
+}
+
+#menu3 {
+  position: absolute;
+  top: 300px;
+  left: -60px;    
+}
+
+#menu4 {
+  position: absolute;
+  top: 350px;
+  left: -60px;
+}
+
+#contact {
+  width: 185px;
+  height: 67px;
+  background-image: url(../images/ota-yhteytta.png);
+  position: absolute;
+  top: 457px;
+  left: 550px;
+  box-shadow: 0px 0px 25px #adadad;
+  -moz-box-shadow: 0px 0px 25px #adadad;
+  -webkit-box-shadow: 0px 0px 25px #adadad;
+  border-radius: 4px;
+  color: white;
+  font-family: "Noa Bold";
+  font-size: 11pt;
+}
+
+#contact-text {
+  padding-top: 5px;
+  padding-left: 4px;
+}
+#contact-take {
+  letter-spacing: 2px;
+}
+#contact-email {
+}
+#contact-phone {
+}
+
+#contact a {
+  text-decoration: none;
+  color: white;
+}
+
 #content {
   width: 880px;
   background-color: #fffff0;
@@ -96,7 +189,21 @@ body {
 
 #content p {
   font-family: "Noa Regular";
-  color: black;
+  color: #6f6f6f;
   margin-left: 139px;
   margin-right: 139px;
+}
+
+#content h2 {
+  font-family: "Noa Bold";
+  font-size: 18pt;
+  color: #6f6f6f;
+  margin-left: 40px;  
+}
+
+#content h3 {
+  font-family: "Noa Bold";
+  font-size: 18pt;
+  color: #80133a;
+  margin-left: 40px;  
 }
