@@ -5,8 +5,10 @@ body {
 
 #background {
   background-image: url(../images/virkisteri_background.png);
-  width: 1200px;
-  height: 998px;
+  webkit-background-size: cover;
+  moz-background-size: cover;
+  o-background-size: cover;
+  background-size: cover;
   text-align: left;
 }
 
@@ -96,7 +98,6 @@ body {
   border: solid thin #b18b1e;
   background-color: #ffffff;
   font-family: "Noa Regular";
-  font-weight: bold;
   padding-top: 4px;
   text-align: center;
 }
@@ -206,4 +207,8 @@ body {
   font-size: 18pt;
   color: #80133a;
   margin-left: 40px;  
+}
+
+#bottom-space {
+  height: 50px;
 }
