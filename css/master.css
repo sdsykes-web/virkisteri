@@ -147,9 +147,9 @@ body {
   position: absolute;
   top: 457px;
   left: 550px;
-  box-shadow: 0px 0px 25px #adadad;
-  -moz-box-shadow: 0px 0px 25px #adadad;
-  -webkit-box-shadow: 0px 0px 25px #adadad;
+  box-shadow: 0px 0px 5px #adadad;
+  -moz-box-shadow: 0px 0px 5px #adadad;
+  -webkit-box-shadow: 0px 0px 5px #adadad;
   border-radius: 4px;
   color: white;
   font-family: "Noa Bold";
