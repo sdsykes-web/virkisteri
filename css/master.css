@@ -1,0 +1,102 @@
+body {
+  background-color: white;
+  margin: 0 0 0 0;
+}
+
+#background {
+  background-image: url(../images/virkisteri_background.png);
+  width: 1200px;
+  height: 998px;
+  text-align: left;
+}
+
+#shadow {
+  margin: auto;
+  top: 0px;
+  left: 160px;
+  width: 880px;
+  box-shadow: 0px 0px 25px #fffff0;
+  -moz-box-shadow: 0px 0px 25px #fffff0;
+  -webkit-box-shadow: 0px 0px 25px #fffff0;
+}
+
+#logo {
+  background-image: url(../images/virkisteri_www.jpg);  
+  width: 343px;
+  height: 160px;
+  float: left;
+}
+
+#heading {
+  float: right;
+  width: 537px;
+  height: 160px;
+  background-color: #c3dc77;
+}
+
+#heading-text {
+  margin-top: 20px;
+  margin-left: 40px;
+  font-size: 22pt;
+  font-family: "Noa Pro Regular";
+  color: white; 
+  text-align: left; 
+}
+
+.clear {
+  clear: both;
+}
+
+#images-box {
+  background-color: #80133a;
+  width: 880px;
+  height: 349px;
+}
+
+#pic1 {
+  float: right;
+  width: 240px;
+  height: 335px;
+  background-image: url(../images/virkisteri_1.jpg);
+  margin-right: 7px;
+  margin-top: 7px;
+}
+
+#pic2 {
+  float: right;
+  width: 240px;
+  height: 335px;
+  background-image: url(../images/virkisteri_2.jpg);
+  margin-right: 7px;
+  margin-top: 7px;
+}
+
+#pic3 {
+  float: right;
+  width: 240px;
+  height: 335px;
+  background-image: url(../images/virkisteri_3.jpg);
+  margin-right: 7px;
+  margin-top: 7px;
+}
+
+#content {
+  width: 880px;
+  background-color: #fffff0;
+  padding-bottom: 30px;
+  padding-top: 10px;
+}
+
+#content h1 {
+  font-family: "Noa Bold";
+  font-size: 18pt;
+  color: #80133a;
+  margin-left: 40px;
+}
+
+#content p {
+  font-family: "Noa Regular";
+  color: black;
+  margin-left: 139px;
+  margin-right: 139px;
+}
