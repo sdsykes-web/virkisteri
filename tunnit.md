@@ -3,7 +3,31 @@ layout: master
 menu3: lit
 ---
 ## Henkilöstöliikunta | Liikunta- ja fysioterapiapalvelut
-### Vulputate velit esse molestie consequat
-Vel id doming causae voluptaria. Ne nec quem omnium propriae. Cum ullum ubique docendi ut, eam eros oratio cu. Mei clita feugiat eu, id maiorum facilisis eam. Aperiam ocurreret nam ea. Affert quaestio splendide has at. Harum tritani tacimates pri et, vim ex melius eligendi aliquando, cum suscipiantur disputationi an.
+##### HELSINKI - ESPOO - VANTAA
+### Tunnit ja kurssit &mdash; Liikunnan iloa tunnista toiseen!
 
-Sit autem regione aliquando at. Eu est hinc adhuc legendos, pri ex sale altera eleifend. Vis ad oratio vivendo tincidunt, ut diam tantas vituperata per. Natum posse temporibus ad has. Sea ex tibique atomorum scribentur, ad alii salutatus mea. Illum possit perpetua at mea, ad vim nisl verterem.
+###### Yogalates
+
+Joogaa ja pilatesta lempeän tehokkaalla tavalla! Säännöllisellä harjoittelulla saavutat kauniin ryhdin, rennot hartiat ja vahvat keskivartalon lihakset. Lauantaiaamupäivän ihana herättely!
+
+**La klo 10-11**, Munkkiniemen yhteis­­­koulu, tanssisali, Laajalahdentie 21, Helsinki
+Kevätkausi: 11.1.-3.5.2014 (ei tuntia 22.2, 8.3, 15.3 eikä 19.4.)
+Seuraa fb-sivuilta mahdollisia kurssiaikataulujen muutoksia
+
+Kertamaksu 12 € - Kevätkauden kymppikortti 110 €
+
+
+###### KevätZumba
+
+Zumba® – Ditch the Workout, Join the Party!
+Maailman laajuinen menestys! Tunti tarjoaa latinolajeja ja suosittuja tanssityylejä ympäri maailman helpolla ja hikisellä tavalla. Poltat kaloreita huomaamatta ja lähdet tunnilta hymy huulilla! Lisää Zumbasta®: [www.zumba.com](http://www.zumba.com)
+
+**La klo 11-12**, Munkkiniemen yhteis­­­koulu, tanssisali, Laajalahdentie 21, Helsinki
+Kevätkausi: 11.1.-3.5.2014 (ei tuntia 22.2, 8.3, 15.3 eikä 19.4.)
+Seuraa fb-sivuilta mahdollisia kurssiaikataulujen muutoksia
+
+Kertamaksu 12 € - Kymppikortti 100 €
+
+Maksutavat: Käteinen / ![smartum](images/smartum_logo.png?)
+
+Ohjaajanasi toimii Riikka Ilmivalta, työfysioterapeutti, tanssinohjaaja, jooga- ja pilates­opettaja.
