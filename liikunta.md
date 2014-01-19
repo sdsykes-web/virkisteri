@@ -3,7 +3,13 @@ layout: master
 menu2: lit
 ---
 ## Henkilöstöliikunta | Liikunta- ja fysioterapiapalvelut
-### Lobortis nisl ut aliquip
-Nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.
+##### HELSINKI - ESPOO - VANTAA
+### Ryhmäliikuntapalvelut &mdash; Hyppää mukaan!
+Pienikin määrä liikuntaa on aina parempi vaihtoehto kun liikkumattomuus. Ovathan hyvä fyysinen kunto ja toimintakyky paremman elämän peruspilareita. Hyvä kunto rakennetaan monipuolisella, iloa tuottavalla liikunnalla. Ryhmäliikunta on tehokas ja iloa tuottava tapa tukea arki- ja hyötyliikuntaa. Viikottaisen liikunta-annoksen tulisi sisältää kestävyyttä, lihasvoimaa ja liikunnallisia taitoja kehittäviä lajeja – venyttelyä unohtamatta!
 
-Suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+Tietoisku! (tähteen tms)
+Säännöllinen liikunta parantaa elämänlaatua ja lisää stressinsietokykyä. Liikunta auttaa unettomuuteen ja tekee unesta virkistävämpää. Liikunta parantaa itsetuntoa ja elämänhallintaa ja vaikuttaa positiivisesti työssäjaksamiseen.
+
+**Kun keho voi hyvin, mieli seuraa perässä**
+
+[Katso tunnit ja kurssit](tunnit.html)

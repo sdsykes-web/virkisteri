@@ -3,7 +3,22 @@ layout: master
 menu1: lit
 ---
 ## Henkilöstöliikunta | Liikunta- ja fysioterapiapalvelut
-### Lorem ipsum dolor sit amet
-Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.
+##### HELSINKI - ESPOO - VANTAA
+### Yritysten henkilöstöliikunta &mdash; Potkua työpäivään!
+Henkilöstön hyvinvoinnilla ja yrityksen taloudellisella menestyksellä on tutkimusten mukaan selvä yhteys. Hyvä fyysinen kunto näkyy ja tuntuu: työkyky paranee ja sairauspoissaolot vähentyvät. Henkilöstön hyvinvointi näkyy suoraan viivan alla. Se on yrityksen tärkein voimavara.
 
-Ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+Hyvää kuntoa voi ylläpitää vain säännöllisellä liikunnalla. Sitä ei voi varastoida. Säännöllinen henkilöstöliikunta on paitsi tehokas, myös edullinen ratkaisu henkilöstön “työkunnon” kohottamiseen.
+
+Mielekkäin palvelukonaisuus riippuu organisaation koosta, sijainnista ja sukupuolijakaumastaLopullisesta liikuntapaketista löytyy yhden tai usean eri lajin yhdistelmä fysioterapeutin palveluilla tai hieronnalla höystettynä. 
+
+Suosituimpia liikuntatunteja ovat tällä hetkellä: kahvakuula, Piloxing, Zumba, terveselkä, pilates, CrossFit, Circuit, jooga, joogapilates, allasjumppa, army, steppi, pumppi ja kuntonyrkkeily. Kannattaa kysyä myös muita vaihtoehtoja!
+
+Palveluitamme käyttävät mm:
+OP-Pohjola, Sanomamagazines Finland, Skanska
+Työterveyslaitos, Helsingin Energia, Stara, Kesko, Helsingin kaupunki
+
+######Iloisessa liikunnassa, fysioterapiassa ja hieronnassa piilee onnen avaimet...
+
+[Virkisteriltä voit tilata myös fysioterapeutin tai hierojan yrityksen omiin tiloihin.](fysioterapia.html)
+
+Virkisterin palveluista vastaa työfysioterapeutti Riikka Ilmivalta ammattitaitoisine tiimeineen. Suunnitellaan yhdessä parhaiten toimiva ratkaisu teidän yrityksellenne! [riikka@virkisteri.fi](mailto:riikka@virkisteri.fi), puh. 040 5303 945.

@@ -2,6 +2,9 @@
 layout: master
 ---
 # Henkilöstöliikunta | Liikunta- ja fysioterapiapalvelut
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+#### HELSINKI - ESPOO - VANTAA
+Virkisteri tarjoaa hyvinvointia yritys- ja yksityisasiakkaille pääkaupunkiseudun alueella. Henkilöstöliikunta, erilaiset ryhmäliikunnat ja fysioterapia ovat kysytyimmät . Meiltä saat kaiken tarvitsemasi avun, kun haluat huolehtia fyysisestä kunnostasi tai saada esim. istumatyön haitat hallintaan.
 
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum
+**Fyysisestä kunnosta huolehtiminen on hyvin voivaa arkea ylläpitävä voimavara**
+
+Palveluista vastaa työfysioterapeutti Riikka Ilmivalta tiimeineen. Tervetuloa virkistävien palvelumme pariin!
