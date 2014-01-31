@@ -14,19 +14,20 @@ Joogaa ja pilatesta lempeän tehokkaalla tavalla! Säännöllisellä harjoittelu
 Kevätkausi: 11.1.-3.5.2014 (ei tuntia 22.2, 8.3, 15.3 eikä 19.4.)
 Seuraa fb-sivuilta mahdollisia kurssiaikataulujen muutoksia
 
-Kertamaksu 12 € - Kevätkauden kymppikortti 110 €
+Kertamaksu 12 € | Kevätkauden kymppikortti 110 €
 
 
 ###### KevätZumba
 
 Zumba® – Ditch the Workout, Join the Party!
-Maailman laajuinen menestys! Tunti tarjoaa latinolajeja ja suosittuja tanssityylejä ympäri maailman helpolla ja hikisellä tavalla. Poltat kaloreita huomaamatta ja lähdet tunnilta hymy huulilla! Lisää Zumbasta®: [www.zumba.com](http://www.zumba.com)
+Maailmanlaajuinen menestys! Tunti tarjoaa latinolajeja ja suosittuja tanssityylejä ympäri maailman helpolla ja hikisellä tavalla. Poltat kaloreita huomaamatta ja lähdet tunnilta hymy huulilla! 
+Lisää Zumbasta®: [www.zumba.com](http://www.zumba.com)
 
 **La klo 11-12**, Munkkiniemen yhteis­­­koulu, tanssisali, Laajalahdentie 21, Helsinki
 Kevätkausi: 11.1.-3.5.2014 (ei tuntia 22.2, 8.3, 15.3 eikä 19.4.)
 Seuraa fb-sivuilta mahdollisia kurssiaikataulujen muutoksia
 
-Kertamaksu 12 € - Kymppikortti 100 €
+Kertamaksu 12 € | Kymppikortti 100 €
 
 Maksutavat: Käteinen / ![smartum](images/smartum_logo.png?)
 
