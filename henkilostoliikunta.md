@@ -15,7 +15,7 @@ Suosituimpia liikuntatunteja ovat tällä hetkellä: kahvakuula, Piloxing, Zumba
 
 Palveluitamme käyttävät mm:
 OP-Pohjola, Sanomamagazines Finland, Skanska,
-Työterveyslaitos, Helsingin Energia, Stara, Kesko ja Helsingin kaupunki
+Työterveyslaitos, Helsingin Energia, Stara, Kesko ja Helsingin kaupunki.
 
 ######Iloisessa liikunnassa, fysioterapiassa ja hieronnassa piilee onnen avaimet...
 
