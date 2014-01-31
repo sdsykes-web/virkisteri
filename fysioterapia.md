@@ -5,14 +5,14 @@ menu4: lit
 ## Henkilöstöliikunta | Liikunta- ja fysioterapiapalvelut
 ##### HELSINKI - ESPOO - VANTAA
 ### Fysioterapia ja hieronta &mdash; Kun omat konstit eivät riitä&hellip;
-Kolottaako? Epämukavuuden tunnetta? Väsyykö niskasi tai selkäsi työpäivän aikana? Kipuileeko olkapää? Ei kannata jäädä odottamaan – tila voi kroonistua. Helpoimmalla pääset tulemalla fysioterapiaan tai hierottavaksi ennaltaehkäisevästi tai heti oireen huomattuasi. Yleensä jo muutamalla hoito- ja harjoituskerralla saadaan vikatilaan helpotusta. Muista: matalan kynnyksen taktiikka on aina paras!
+Kolottaako? Epämukavuuden tunnetta? Väsyykö niskasi tai selkäsi työpäivän aikana? Kipuileeko olkapää? Ei kannata jäädä odottamaan – tila voi kroonistua. Helpoimmalla pääset tulemalla fysioterapiaan tai hierottavaksi ennaltaehkäisevästi tai heti oireen huomattuasi. Yleensä jo muutamalla hoito- ja harjoituskerralla saadaan vikatilaan helpotusta. Muista: matalan hoitokynnyksen taktiikka on aina paras!
 
 ###### Meiltä saat apua hyvinvointiisi ja työntekoosi vaikuttaviin tuki- ja liikuntaelinoireisiin.
 
 **Vastaanotto:** Teramus Munkkiniemi, Laajalahdentie 16 b, Helsinki, www.teramus.fi
 
 **Ajanvaraus:** Teramuksen ajanvaraus (09) 445 045
-työysioterapeutti Riikka Ilmivalta riikka@virkisteri.fi tai 040 530 3945
+Työfysioterapeutti Riikka Ilmivalta riikka@virkisteri.fi tai 040 530 3945
 
 <table>
   <tr>
@@ -39,6 +39,6 @@ Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin til
 
 <span class="margin-indicator-container"><span class="margin-indicator">»</span><span class="calendar-links"><b>ajanvarauskalenteri</b> Etera | Helsingin Energia | Työterveyslaitos</span></span>
 
-**Kiinnoistuitko?** Jos fysioterapeutin/hierojan palvelujen järjestäminen yrityksessäsi tai jokin muu Virkisterin taroama palvelu kiinnostaa sinua, olethan yhteydessä!
+**Kiinnoistuitko?** Jos fysioterapeutin tai hierojan palvelujen järjestäminen yrityksessäsi tai jokin muu Virkisterin tarjoama palvelu kiinnostaa sinua, olethan yhteydessä!
 
 [riikka@virkisteri.fi](mailto:riikka@virkisteri.fi), puh. 040 5303 945.
