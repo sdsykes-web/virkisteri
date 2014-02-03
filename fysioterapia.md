@@ -23,7 +23,7 @@ Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkis
   </tr>
 </table>
 
-### Fysioterapia- ja hierontapalvelut yrityksen tiloissa – Istumatyön haitat hallintaan!
+### Fysioterapia- ja hierontapalvelut<br>yrityksen tiloissa<br>– Istumatyön haitat hallintaan!
 
 Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin tiloihin. Kun palvelut ovat käden ulottuvilla, hoitokynnyskin on matala. Palvelu on kätevä kaikille, mutta erityisen hyvin se sopii henkilöille, joille työajan ulkopuoliset aikataulut ovat haasteellisia. Tarvitsemme vain vapaan tilan – pienikin riittää!
 
