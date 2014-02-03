@@ -4,7 +4,7 @@ menu3: lit
 ---
 ## Henkilöstöliikunta | Liikunta- ja fysioterapiapalvelut
 ##### HELSINKI - ESPOO - VANTAA
-### Tunnit ja kurssit &mdash; Liikunnan iloa<br>tunnista toiseen!
+### Tunnit ja kurssit<br>&mdash; Liikunnan iloa tunnista toiseen!
 
 ###### Yogalates
 
@@ -29,6 +29,6 @@ Seuraa fb-sivuilta mahdollisia kurssiaikataulujen muutoksia
 
 Kertamaksu 12 € &nbsp;| &nbsp;Kymppikortti 100 €
 
-Maksutavat: Käteinen | ![smartum](images/smartum_logo.png?)
+Maksutavat: KÄTEINEN | ![smartum](images/smartum_logo.png?)
 
 Ohjaajanasi toimii Riikka Ilmivalta, työfysioterapeutti, tanssinohjaaja, jooga- ja pilates­opettaja.
