@@ -9,7 +9,7 @@ Kolottaako? Epämukavuuden tunnetta? Väsyykö niskasi tai selkäsi työpäivän
 
 ###### Meiltä saat apua hyvinvointiisi ja työntekoosi vaikuttaviin tuki- ja liikuntaelinoireisiin.
 
-**Vastaanotto:** Teramus Munkkiniemi, Laajalahdentie 16 b, Helsinki, www.teramus.fi
+**Vastaanotto:** Teramus Munkkiniemi, Laajalahdentie 16 b, Helsinki, [www.teramus.fi](http://www.teramus.fi)
 
 **Ajanvaraus:** Teramuksen ajanvaraus (09) 445 045  
 Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkisteri.fi) tai 040 530 3945
@@ -23,7 +23,7 @@ Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkis
   </tr>
 </table>
 
-### Fysioterapia- ja hierontapalvelut<br>yrityksen tiloissa<br>– Istumatyön haitat hallintaan!
+### Fysioterapia- ja hierontapalvelut<br>yrityksen tiloissa &mdash; Istumatyön haitat hallintaan!
 
 Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin tiloihin. Kun palvelut ovat käden ulottuvilla, hoitokynnyskin on matala. Palvelu on kätevä kaikille, mutta erityisen hyvin se sopii henkilöille, joille työajan ulkopuoliset aikataulut ovat haasteellisia. Tarvitsemme vain vapaan tilan – pienikin riittää!
 
