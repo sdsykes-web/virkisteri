@@ -37,7 +37,9 @@ Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin til
   </tr>
 </table>
 
-<span markdown="0" class="margin-indicator-container"><span class="margin-indicator">»</span><span class="calendar-links"><b>ajanvarauskalenteri</b>&nbsp;Etera | Helsingin Energia | Työterveyslaitos</span></span>
+<div>
+<span class="margin-indicator-container"><span class="margin-indicator">»</span><span class="calendar-links"><b>ajanvarauskalenteri</b> Etera | Helsingin Energia | Työterveyslaitos</span></span>
+</div>
 
 **Kiinnoistuitko?** Jos fysioterapeutin tai hierojan palvelujen järjestäminen yrityksessäsi tai jokin muu Virkisterin tarjoama palvelu kiinnostaa sinua, olethan yhteydessä!
 
