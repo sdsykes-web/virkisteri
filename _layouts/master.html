@@ -32,6 +32,19 @@
   document.write("}");}
   document.write("</style>");
   </script>
+  
+  {% if page.menu4 == 'lit' %}
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>  
+  <script>
+  setInterval(function () {
+      $('.fadein :first-child').fadeOut(1000)
+                               .next('img')
+                               .fadeIn(10)
+                               .end()
+                               .appendTo('.fadein');
+  },4000 );
+  </script>
+  {% endif %}
 </head>
 <body>
   <center>
@@ -53,7 +66,23 @@
           <div class="clear"></div>
           <div id="images-box">
             <div id="pic3"></div>
+            {% if page.menu4 == 'lit' %}
+            <div id="fade-box">
+              <div id="fadein-top"></div>
+              <div class="fadein">
+                <img src="/images/logos/opPohjola.png">
+                <img class="hidden" src="/images/logos/sanoma.png">
+                <img class="hidden" src="/images/logos/skanska.png">
+                <img class="hidden" src="/images/logos/hginEnergia.png">
+                <img class="hidden" src="/images/logos/hginKpki.png">
+                <img class="hidden" src="/images/logos/kesko.png">
+                <img class="hidden" src="/images/logos/stara.png">
+                <img class="hidden" src="/images/logos/tyotervLaitos.png">
+              </div>
+            </div>
+            {% else %}
             <div id="pic2"></div>
+            {% endif %}
             <div id="pic1"></div>
           </div>
           <ul id="menu">

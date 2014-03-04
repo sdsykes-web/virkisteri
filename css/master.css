@@ -313,3 +313,35 @@ table td {
 a {
   color: #6f6f6f;  
 }
+
+#fade-box {
+  float: right;
+  width: 240px;
+  height: 335px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+
+#fadein-top {
+  background-image: url(../images/virkisteri_asiakaslogot_animationtop.png);
+  background-size: 240px 90px;
+  width: 240px;
+  height: 90px;
+}
+
+.fadein {
+  position: relative;
+  width: 240px;
+  height: 245px;
+}
+
+.fadein img {
+  position: absolute;
+  top: 0px;
+  width: 240px;
+  height: 245px;  
+}
+
+.hidden {
+  display: none;
+}
