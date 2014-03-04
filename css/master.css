@@ -30,7 +30,8 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 }
 
 #logo {
-  background-image: url(../images/virkisteri_www.jpg);  
+  background-image: url(../images/virkisteri_www@2x.jpg);  
+  background-size: 343px 160px;
   width: 348px;
   height: 160px;
   float: left;
@@ -93,7 +94,8 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
   float: right;
   width: 240px;
   height: 335px;
-  background-image: url(../images/virkisteri_1.jpg);
+  background-image: url(../images/virkisteri_1@2x.jpg);
+  background-size: 240px 335px;
   margin-right: 7px;
   margin-top: 7px;
 }
@@ -102,7 +104,8 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
   float: right;
   width: 240px;
   height: 335px;
-  background-image: url(../images/virkisteri_2.jpg);
+  background-image: url(../images/virkisteri_2@2x.jpg);
+  background-size: 240px 335px;
   margin-right: 7px;
   margin-top: 7px;
 }
@@ -111,7 +114,8 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
   float: right;
   width: 240px;
   height: 335px;
-  background-image: url(../images/virkisteri_3.jpg);
+  background-image: url(../images/virkisteri_3@2x.jpg);
+  background-size: 240px 335px;
   margin-right: 7px;
   margin-top: 7px;
 }
