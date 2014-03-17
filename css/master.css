@@ -379,6 +379,7 @@ a {
 }
 
 #fade-box {
+  visibility: hidden;
   position: absolute;
   top: 0px;
   left: 0px;
