@@ -6,32 +6,6 @@
   </title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <link rel="stylesheet" href="css/master.css" type="text/css" media="screen" title="no title" charset="utf-8">
-
-  <script>
-  var browserName,browserVersion,webfontType;var browsers=[{'regex':'MSIE (\\d+\\.\\d+)','versionRegex':'new Number(RegExp.$1)','type':[{"version":9.0,"type":"woff"},{"version":5.0,"type":"eot"}]},{'regex':'Trident\/(\\d+\\.\\d+); (.+)?rv:(\\d+\\.\\d+)','versionRegex':'new Number(RegExp.$3)','type':[{"version":11.0,"type":"woff"}]},{'regex':'Firefox[\/\s](\\d+\\.\\d+)','versionRegex':'new Number(RegExp.$1)','type':[{"version":3.6,"type":"woff"},{"version":3.5,"type":"ttf"}]},{'regex':'Chrome\/(\\d+\\.\\d+)','versionRegex':'new Number(RegExp.$1)','type':[{"version":6.0,"type":"woff"},{"version":4.0,"type":"ttf"}]},{'regex':'Mozilla.*Android (\\d+\\.\\d+).*AppleWebKit.*Safari','versionRegex':'new Number(RegExp.$1)','type':[{"version":4.1,"type":"woff"},{"version":3.1,"type":"svg"},{"version":2.2,"type":"ttf"}]},{'regex':'Mozilla.*(iPhone|iPad).* OS (\\d+)_(\\d+).* AppleWebKit.*Safari','versionRegex':"new Number(RegExp.$2) + (new Number(RegExp.$3) / 10)","unhinted":true,'type':[{"version":5.0,"type":"woff"},{"version":4.2,"type":"ttf"},{"version":1.0,"type":"svg"}]},{'regex':'Mozilla.*(iPhone|iPad|BlackBerry).*AppleWebKit.*Safari','versionRegex':'1.0','type':[{"version":1.0,"type":"svg"}]},{'regex':'Version\/(\\d+\\.\\d+)(\\.\\d+)? Safari\/(\\d+\\.\\d+)','versionRegex':'new Number(RegExp.$1)','type':[{"version":5.1,"type":"woff"},{"version":3.1,"type":"ttf"}]},{'regex':'Opera\/(\\d+\\.\\d+)(\.+)Version\/(\\d+\\.\\d+)(\\.\\d+)?','versionRegex':'new Number(RegExp.$3)','type':[{"version":11.1,"type":"woff"},{"version":10.1,"type":"ttf"}]},]
-  var browLen=browsers.length;var unhinted=0;out:for(i=0;i<browLen;i++){var regex=new RegExp(browsers[i].regex);if(regex.test(navigator.userAgent)){browserVersion=eval(browsers[i].versionRegex);var typeLen=browsers[i].type.length;for(j=0;j<typeLen;j++){if(browserVersion>=browsers[i].type[j].version){if(browsers[i].unhinted==true){unhinted=1;}
-  webfontType=browsers[i].type[j].type;break out;}}}
-  else{webfontType='woff';}}
-  if(/(Macintosh|Android)/.test(navigator.userAgent)&&webfontType!="svg"){unhinted=1;}
-  var fonts=[{"family":"Noa Bold","weight":"normal","style":"normal","urls":[{"woff":"DpFZOvR5UP9rh5sd24HHhi1aUkUdPU1Ps832mYvKL","ttf":"2H5cD31qO86W5TYX4Y1PYsHq3FCESr31SlpTAvDq","eot":"4fpdZsmialpnosgAvdC4NdCWFkAqo9leeF9XQhn","svg":"PWDYNq3eYjkQuIPB5o0dkKJ7ZNSNZZ3nbj8A8eG"},
-{"woff":"562X4fG6ulXbACR6A7O4KDFrOKRUZiaN3ZYc6jFH2CQdClYp0Vcaf9SN0oE","ttf":"ms0Uabp4JFVOJbf0rbUP87M3ibqpIb6kIeKTOe2d9rL3dHLdtFXDSje9i","eot":"1ge6k6uIehEghIXp1IVHIFkPDQtaih85BQK5biS3m0v2CHiVNp9O5NBVW","svg":"9MrK1131jZ0Q45XOd469sMbmFfOp407RhABCmPt3udXaK39RieUgqoZsj"}]},
-{"family":"Noa Pro Bold","weight":"normal","style":"normal","urls":[{"woff":"DpFZOvR5UP9rh2KAbK7sm3fs8GFlUNgEgHd63FYXd","ttf":"2H5cD31qO86W92lcF2BRIogsnkWCApEQiemKINqM","eot":"4fpdZsmialpd8hD74D6K8hJqZrNha5RnCtSGVaB","svg":"PWDYNq3eYjkbeUHh85PEBreYU9bHvvfTBaOCg9U"},{"woff":"562X4fG6ulXbAB8QYlKI58n1YWqL6FmflW17FQPArALrr0dt1CLSIsUU9OM","ttf":"ms0Uabp4JFVPb5doa0O6Ndmb1ubcOF15BmNsRihkdNLsviHHAMrmErtao","eot":"1ge6k6uIehEckXYJ34Lmu18OO673p6glZZJeTo4Yg45gMRBnXoWYv4hLS","svg":"9MrK1131jZ0U0meohusS62PYP2AL4kiHSlRMpn1FnDE9iTc6KUUSF1unJ"}]},
-{"family":"Noa Pro Regular","weight":"normal","style":"normal","urls":[{"woff":"DpFZOvR5UP9rh2KBh87PEfHBbe86Se3eBh3relW0v","ttf":"2H5cD31qO86W92miCT6gnv3WkEft6p9maGS1D8Ak","eot":"4fpdZsmialpd8hYFpSQTJ2G5UCX8BWTZZ4dYOq7","svg":"PWDYNq3eYjkbeTBt8Z0YacBAbod1cWE3kkicigC"},{"woff":"562X4fG6ulXbAB8R0FYM2DLO10DT3YCqfkdnDaY9bIArCj5l3SqWhj7PmgU","ttf":"ms0Uabp4JFVPb65MK3eZBWVMeOVU3lU8MlbdMlHngmHvM2bC5pGfGSXAM","eot":"1ge6k6uIehEckXg649muUi03JXCfkgnH1iC2lpO09mRB5ZDQA0ipNaXTq","svg":"9MrK1131jZ0U0mHOTqvNXc195qD2eZo2m5TCgoH82DsNKbZllQ5bc6HVB"}]},
-{"family":"Noa Regular","weight":"normal","style":"normal","urls":[{"woff":"DpFZOvR5UP9rh2K8vlne7m3CpnjktepdhgRuTaS81","ttf":"2H5cD31qO86W92msaNff9PQNgQRe4tFMjfshS2NS","eot":"4fpdZsmialpd8fsmTieF7BgqPDF4Eebf5QVgGdP","svg":"PWDYNq3eYjkbeVtKDNQXki7Dsu4dOmvu6aZIEVo"},
-{"woff":"562X4fG6ulXbAB8PveWASkUnDNZt88TDOHhrOEA1aPflDJBZtC3PdfaYt6I","ttf":"ms0Uabp4JFVPb69CL1tfZrCH0sE1We7Bdg1Ce558g9uDRUeJHARUNmfsE","eot":"1ge6k6uIehEckX714bGnRdN2qS27e9D57Uq1D2VKI0eSONU59OKhSBoi2","svg":"9MrK1131jZ0U0nI1IekrG5th1q9Ep14jrgtgGl5j9hl1fv8ULHV5SpPXF"}]},
-{"family":"mfPreviewBar","weight":"normal","style":"normal","urls":[{"woff":"UTs7f0VhM3ssgbRTsUJnBP4YnLtBdWYoXa6AZN8he5eqBEqEF","ttf":"52VKA6FAqrkfq3IccXB9uPu3ZhDqIt6fOonpfLddKZhcOB13","eot":"ALvjB6Hak0GSSseDY5HFONuFaX8E5idrjF1vWvdEUKo8Hjn","svg":"u9o0gAcKH59d43mZZrj0GKF7VKo1sLeMeILJqO68iXa3BCA"},
-{"woff":"3PdlVSHpd7Hb4L4qAoRMDakZi16M0RpmI3EP9tHSYPt4rZVf11lsK3v","ttf":"X0GJo9oGHflajUYPkIJXNRlsbvrhmD5vsNe6DNFKZ9tXa591g0QUb","eot":"19rEVodLniAFrSEHafa7hUroAecjtAS5qUdgEkZrZcY2a5q11jg21","svg":"6JWHUkFerH0aNVCG4O4CtNW7JBbQqCE0JNGUebY9JEOeC68VHN7sC"}]},
-{"family":"mfPreviewClose","weight":"normal","style":"normal","urls":[{"woff":"UTs7f0VhM3ssgTKiqrJKZnN8O8rniktRPCbXIWs8h1nCW3FKF","ttf":"52VKA6FAqrkg1a0eYOSNh8VKaro5HY4Th9Dm516F3bHnrvYP","eot":"ALvjB6Hak0G4eqb7G8q6Zr4OYfHRTRiD7ANsIeZBpM2oKjr","svg":"u9o0gAcKH5A4o7SUcAYKAMbauhppD21fpCbMXhsQB3CbEoo"},
-{"woff":"3PdlVSHpd7Hb4K9jlS00jWqjbS2a5815XXmPeaSL9YIPNQ6esQUYvfv","ttf":"X0GJo9oGHflbb1DDDrQY3ZQ7b0mDrgs5ogMmgOVkV9t9huILXc6if","eot":"19rEVodLniADDjjIiFY9hkrULgPPpVYMF2Y6IbW37JsCDY5aProZ7","svg":"6JWHUkFerH0d5DngDVmJa6hgTn8DArITXNIpYTVtWbsDRYqlu0Y7E"}]}];var len=fonts.length;document.write("<style>");for(var i=0;i<len;i++){var suffix="";if(webfontType=="svg"){var format="format(\"svg\")";suffix="#wf";}
-  else if(webfontType=="ttf"){var format="format(\"truetype\")";}
-  else if(webfontType=="eot"){var format="";}
-  else{var format="format(\""+webfontType+"\")";}
-  if(fonts[i].urls.length<2){unhinted=0;}
-  var fontface="@font-face{font-family: "+fonts[i].family+";src:url(//easy.myfonts.net/v1/"+webfontType+"?"+fonts[i]['urls'][unhinted][webfontType]+suffix+")"+format+";";document.write(fontface);if(fonts[i].fontWeight){document.write("font-weight: "+fonts[i].weight+";");}
-  if(fonts[i].fontStyle){document.write("font-style: "+fonts[i].style+";");}
-  document.write("}");}
-  document.write("</style>");
-  </script>
   
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
   {% if page.pageNumber != 3 %}

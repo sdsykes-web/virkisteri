@@ -1,3 +1,10 @@
+@import url("//hello.myfonts.net/count/2a767f");
+
+@font-face {font-family: 'NoaLTStd-Regular';src: url('webfonts/2A767F_0_0.eot');src: url('webfonts/2A767F_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A767F_0_0.woff') format('woff'),url('webfonts/2A767F_0_0.ttf') format('truetype');}
+   
+@font-face {font-family: 'NoaLTStd-Bold';src: url('webfonts/2A767F_1_0.eot');src: url('webfonts/2A767F_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A767F_1_0.woff') format('woff'),url('webfonts/2A767F_1_0.ttf') format('truetype');}
+
+
 body {
   background-color: white;
   margin: 0 0 0 0;
@@ -49,7 +56,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
   margin-top: 20px;
   margin-left: 40px;
   font-size: 22pt;
-  font-family: "Noa Pro Regular";
+  font-family: "NoaLTStd-Regular";
   color: white; 
   text-align: left; 
 }
@@ -63,7 +70,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
   position: absolute;
   top: 417px;
   left: -28px;
-  font-family: "Noa Bold";
+  font-family: "NoaLTStd-Bold";
   font-size: 34px;
 }
 
@@ -72,7 +79,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
   position: absolute;
   top: 430px;
   left: 6px;
-  font-family: "Noa Bold";
+  font-family: "NoaLTStd-Bold";
   font-size: 13px;
 }
 
@@ -185,7 +192,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
   width: 180px;
   border: solid thin #b18b1e;
   background-color: #ffffff;
-  font-family: "Noa Regular";
+  font-family: "NoaLTStd-Regular";
   padding-top: 4px;
   text-align: center;
 }
@@ -241,7 +248,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
   -webkit-box-shadow: 0px 0px 5px #adadad;
   border-radius: 4px;
   color: white;
-  font-family: "Noa Bold";
+  font-family: "NoaLTStd-Bold";
   font-size: 11pt;
 }
 
@@ -270,7 +277,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 }
 
 #content p {
-  font-family: "Noa Regular";
+  font-family: "NoaLTStd-Regular";
   color: #3c3c3c;
   margin-left: 139px;
   margin-right: 139px;
@@ -278,7 +285,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 }
 
 #content h1 {
-  font-family: "Noa Bold";
+  font-family: "NoaLTStd-Bold";
   font-size: 20pt;
   color: #80133a;
   margin-left: 40px;
@@ -286,7 +293,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 }
 
 #content h2 {
-  font-family: "Noa Bold";
+  font-family: "NoaLTStd-Bold";
   font-size: 20pt;
   color: #6f6f6f;
   margin-left: 40px;
@@ -294,7 +301,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 }
 
 #content h3 {
-  font-family: "Noa Bold";
+  font-family: "NoaLTStd-Bold";
   font-size: 18pt;
   color: #80133a;
   margin-left: 139px;
@@ -303,7 +310,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 }
 
 #content h4 {
-  font-family: "Noa Bold";
+  font-family: "NoaLTStd-Bold";
   font-size: 12pt;
   color: #80133a;
   margin-left: 139px;
@@ -311,7 +318,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 }
 
 #content h5 {
-  font-family: "Noa Bold";
+  font-family: "NoaLTStd-Bold";
   font-size: 12pt;
   color: #6f6f6f;
   margin-left: 139px;
@@ -319,7 +326,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 }
 
 #content h6 {
-  font-family: "Noa Regular";
+  font-family: "NoaLTStd-Regular";
   font-size: 12pt;
   color: #3c3c3c;
   margin-left: 139px;
@@ -333,7 +340,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 }
 
 .margin-indicator {
-  font-family: "Noa Bold";
+  font-family: "NoaLTStd-Bold";
   margin-left: 100px;
   font-size: 34px;
   display:inline-block;
@@ -342,7 +349,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 }
 
 .calendar-links {
-  font-family: "Noa Regular";
+  font-family: "NoaLTStd-Regular";
   color: #80133a;
   font-size: 20px;
   position: relative;
@@ -364,13 +371,13 @@ table {
 }
 
 table th {
-  font-family: "Noa Regular";
+  font-family: "NoaLTStd-Regular";
   color: #3c3c3c;
 }
 
 table td {
   padding-left: 20px;
-  font-family: "Noa Regular";
+  font-family: "NoaLTStd-Regular";
   color: #6f6f6f;  
 }
 
