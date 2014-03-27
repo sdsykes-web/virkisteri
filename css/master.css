@@ -193,8 +193,9 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
   border: solid thin #b18b1e;
   background-color: #ffffff;
   font-family: "NoaLTStd-Regular";
-  padding-top: 4px;
+  padding-top: 3px;
   text-align: center;
+  font-size: 11pt;
 }
 
 #menu li:hover {
@@ -278,7 +279,8 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 
 #content p {
   font-family: "NoaLTStd-Regular";
-  color: #3c3c3c;
+  font-size: 11pt;
+  color: #707070;
   margin-left: 139px;
   margin-right: 139px;
   margin-top: 10px;
@@ -295,18 +297,19 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 #content h2 {
   font-family: "NoaLTStd-Bold";
   font-size: 20pt;
-  color: #6f6f6f;
+  color: #c8c8c8;
   margin-left: 40px;
   margin-top:17px;
 }
 
 #content h3 {
   font-family: "NoaLTStd-Bold";
-  font-size: 18pt;
+  font-size: 20pt;
   color: #80133a;
   margin-left: 139px;
   margin-right: 139px;
   margin-top: 15px; 
+  line-height: 29px;
 }
 
 #content h4 {
@@ -320,15 +323,15 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 #content h5 {
   font-family: "NoaLTStd-Bold";
   font-size: 12pt;
-  color: #6f6f6f;
+  color: #c8c8c8;
   margin-left: 139px;
   margin-right: 139px;
 }
 
 #content h6 {
   font-family: "NoaLTStd-Regular";
-  font-size: 12pt;
-  color: #3c3c3c;
+  font-size: 13pt;
+  color: #707070;
   margin-left: 139px;
   margin-right: 139px;
   margin-top: 10px;
