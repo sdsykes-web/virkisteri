@@ -3,8 +3,11 @@ layout: master
 menu1: lit
 pageNumber: 1
 ---
+
 ## Henkilöstöliikunta | Liikunta- ja fysioterapiapalvelut
+
 ##### HELSINKI - ESPOO - VANTAA
+
 ### Yritysten henkilöstöliikunta<br>&mdash; Potkua työpäivään!
 Henkilöstön hyvinvoinnilla ja yrityksen taloudellisella menestyksellä on tutkimusten mukaan selvä yhteys. Hyvä fyysinen kunto näkyy ja tuntuu: työkyky paranee ja sairauspoissaolot vähentyvät. Henkilöstön hyvinvointi näkyy suoraan viivan alla. Se on yrityksen tärkein voimavara.
 

@@ -3,8 +3,11 @@ layout: master
 menu3: lit
 pageNumber: 3
 ---
+
 ## Henkilöstöliikunta | Liikunta- ja fysioterapiapalvelut
+
 ##### HELSINKI - ESPOO - VANTAA
+
 ### Tunnit ja kurssit<br>&mdash; Liikunnan iloa tunnista toiseen!
 
 ###### Yogalates
@@ -15,7 +18,7 @@ Joogaa ja pilatesta lempeän tehokkaalla tavalla! Säännöllisellä harjoittelu
 Kevätkausi: 11.1.-3.5.2014 (ei tuntia 22.2, 8.3, 15.3 eikä 19.4.)  
 Seuraa fb-sivuilta mahdollisia kurssiaikataulujen muutoksia
 
-Kertamaksu 12 € &nbsp;| &nbsp;Kevätkauden kymppikortti 110 €
+Kertamaksu 12 € &nbsp;&#124; &nbsp;Kevätkauden kymppikortti 110 €
 
 
 ###### KevätZumba
@@ -28,8 +31,8 @@ Lisää Zumbasta®: [www.zumba.com](http://www.zumba.com)
 Kevätkausi: 11.1.-3.5.2014 (ei tuntia 22.2, 8.3, 15.3 eikä 19.4.)  
 Seuraa fb-sivuilta mahdollisia kurssiaikataulujen muutoksia
 
-Kertamaksu 12 € &nbsp;| &nbsp;Kymppikortti 100 €
+Kertamaksu 12 € &nbsp;&#124; &nbsp;Kymppikortti 100 €
 
-Maksutavat: KÄTEINEN | ![smartum](images/smartum_logo.png?)
+Maksutavat: KÄTEINEN &#124; ![smartum](images/smartum_logo.png?)
 
 Ohjaajanasi toimii Riikka Ilmivalta, työfysioterapeutti, tanssinohjaaja, jooga- ja pilates­opettaja.

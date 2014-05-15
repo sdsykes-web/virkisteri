@@ -3,8 +3,11 @@ layout: master
 menu4: lit
 pageNumber: 4
 ---
+
 ## Henkilöstöliikunta | Liikunta- ja fysioterapiapalvelut
+
 ##### HELSINKI - ESPOO - VANTAA
+
 ### Fysioterapia ja hieronta<br>&mdash; Kun omat konstit eivät riitä&hellip;
 Kolottaako? Epämukavuuden tunnetta? Väsyykö niskasi tai selkäsi työpäivän aikana? Kipuileeko olkapää? Ei kannata jäädä odottamaan – tila voi kroonistua. Helpoimmalla pääset tulemalla fysioterapiaan tai hierottavaksi ennaltaehkäisevästi tai heti oireen huomattuasi. Yleensä jo muutamalla hoito- ja harjoituskerralla saadaan vikatilaan helpotusta. Muista: matalan hoitokynnyksen taktiikka on aina paras!
 
