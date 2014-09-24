@@ -33,7 +33,7 @@ Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin til
 
 
 **Ajanvaraus:** Työfysioterapeutti Riikka Ilmivalta  
-Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkisteri.fi) tai 040 530 3945
+[riikka@virkisteri.fi](mailto:riikka@virkisteri.fi) tai 040 530 3945
 
 <table>
   <tr>
