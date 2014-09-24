@@ -37,10 +37,10 @@ Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin til
 
 <table>
   <tr>
-    <th>Hieronta</th><td>30min – 27 €</td><td>45min – 37 €</td><td>60min – 50 €</td>
+    <th>Hieronta</th><td>30min – 28 €</td><td>45min – 40 €</td><td>60min – 55 €</td>
   </tr>
   <tr>
-    <th>Fysioterapia</th><td>30min – 35 €</td><td>45min – 45 €</td><td>60min – 55 €</td>
+    <th>Fysioterapia</th><td>30min – 28 €</td><td>45min – 40 €</td><td>60min – 55 €</td>
   </tr>
 </table>
 
