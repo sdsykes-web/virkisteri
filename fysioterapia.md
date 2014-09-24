@@ -41,9 +41,9 @@ Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin til
   </tr>
 </table>
 
-<div>
+<!-- div>
 <span class="margin-indicator-container"><span class="margin-indicator">»</span><span class="calendar-links"><b>ajanvarauskalenteri</b> Etera | Helsingin Energia | Työterveyslaitos</span></span>
-</div>
+</div -->
 <span class="move-higher">**HUOM! AJANVARAUS TOISTAISEKSI:** [riikka@virkisteri.fi](mailto:riikka@virkisteri.fi), puh. 040 5303 945.</span>
 
 **Kiinnoistuitko?** Jos fysioterapeutin tai hierojan palvelujen järjestäminen yrityksessäsi tai jokin muu Virkisterin tarjoama palvelu kiinnostaa sinua, olethan yhteydessä!
