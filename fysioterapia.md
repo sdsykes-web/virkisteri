@@ -32,7 +32,7 @@ Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkis
 Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin tiloihin. Kun palvelut ovat käden ulottuvilla, hoitokynnyskin on matala. Palvelu on kätevä kaikille, mutta erityisen hyvin se sopii henkilöille, joille työajan ulkopuoliset aikataulut ovat haasteellisia. Tarvitsemme vain vapaan tilan – pienikin riittää!
 
 
-**Ajanvaraus:**   
+**Ajanvaraus:** Teramuksen ajanvaraus (09) 445 045  
 Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkisteri.fi) tai 040 530 3945
 
 <table>
