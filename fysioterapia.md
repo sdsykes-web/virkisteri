@@ -32,7 +32,8 @@ Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkis
 Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin tiloihin. Kun palvelut ovat käden ulottuvilla, hoitokynnyskin on matala. Palvelu on kätevä kaikille, mutta erityisen hyvin se sopii henkilöille, joille työajan ulkopuoliset aikataulut ovat haasteellisia. Tarvitsemme vain vapaan tilan – pienikin riittää!
 
 
-**Ajanvaraus:** Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkisteri.fi) tai 040 530 3945
+**Ajanvaraus:** Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkisteri.fi) 
+tai 040 530 3945
 
 <table>
   <tr>
@@ -46,7 +47,7 @@ Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin til
 <!-- div>
 <span class="margin-indicator-container"><span class="margin-indicator">»</span><span class="calendar-links"><b>ajanvarauskalenteri</b> Etera | Helsingin Energia | Työterveyslaitos</span></span>
 </div -->
-<span class="move-higher">**HUOM! AJANVARAUS TOISTAISEKSI:** [riikka@virkisteri.fi](mailto:riikka@virkisteri.fi), puh. 040 5303 945.</span>
+
 
 **Kiinnoistuitko?** Jos fysioterapeutin tai hierojan palvelujen järjestäminen yrityksessäsi tai jokin muu Virkisterin tarjoama palvelu kiinnostaa sinua, olethan yhteydessä!
 
