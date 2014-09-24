@@ -16,4 +16,4 @@ Säännöllinen liikunta parantaa elämänlaatua ja lisää stressinsietokykyä.
 
 ######Kun keho voi hyvin, mieli seuraa perässä
 
-[Katso tunnit ja kurssit](tunnit.html)
+Hyppää mukaan virkistävien palveluiden pariin!
