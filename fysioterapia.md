@@ -32,12 +32,13 @@ Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkis
 Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin tiloihin. Kun palvelut ovat käden ulottuvilla, hoitokynnyskin on matala. Palvelu on kätevä kaikille, mutta erityisen hyvin se sopii henkilöille, joille työajan ulkopuoliset aikataulut ovat haasteellisia. Tarvitsemme vain vapaan tilan – pienikin riittää!
 
 
-**MITÄ?** Klassinen hieronta, urheiluhieronta, aku-ja triggerpistekäsittelyt, fysioterapia, kinesioteippaus, intialainen päähieronta, lihastasapainokartoitus, kuntosaliopastus ja omaohjelmat.
+**MITÄ?** • Klassinen hieronta • urheiluhieronta • aku-ja triggerpistekäsittelyt • fysioterapia • kinesioteippaus •  intialainen päähieronta • lihastasapainokartoitus • kuntosaliopastus ja omaohjelmat.
 
 **MIKSI?:  1 Apua tuki- ja liikuntaelimistön oireiluun**  
 • niska-hartiaseudun kireys
 • päänsärky
-• alaselkäkivut -olkapäävaivat
+• alaselkäkivut
+• olkapäävaivat
 • alaraajan ongelmat • lihaskireys jne.
 **2 Ennaltaehkäisy**  • Istumatyön haittojen hallinta
 • lihashuolto
