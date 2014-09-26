@@ -43,7 +43,7 @@ Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin til
 • kuntosaliopastus ja omaohjelmat
 
 **MIKSI?**  
-**1 Apua tuki- ja liikuntaelimistön oireiluun**  
+**1 Apua tuki- ja liikuntaelimistön oireiluun**
 • niska-hartiaseudun kireys
 • päänsärky
 • alaselkäkivut
