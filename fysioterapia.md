@@ -48,7 +48,7 @@ Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin til
 • alaselkäkivut
 • olkapäävaivat
 • alaraajan ongelmat
-• lihaskireys 
+• lihaskireys  
 **2 Ennaltaehkäisy**  • Istumatyön haittojen hallinta
 • lihashuolto
 • treenistä palautuminen
