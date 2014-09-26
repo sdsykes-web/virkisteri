@@ -38,7 +38,7 @@ Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin til
 • aku-ja triggerpistekäsittelyt
 • fysioterapia
 • kinesioteippaus
-•  intialainen päähieronta
+• intialainen päähieronta
 • lihastasapainokartoitus
 • kuntosaliopastus ja omaohjelmat
 
@@ -47,8 +47,9 @@ Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin til
 • päänsärky
 • alaselkäkivut
 • olkapäävaivat
-• alaraajan ongelmat • lihaskireys 
-** 2 Ennaltaehkäisy**  • Istumatyön haittojen hallinta
+• alaraajan ongelmat
+• lihaskireys 
+**2 Ennaltaehkäisy**  • Istumatyön haittojen hallinta
 • lihashuolto
 • treenistä palautuminen
 
