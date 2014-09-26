@@ -46,18 +46,6 @@ Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin til
 </div -->
 
 
-**MITÄ?** Klassinen hieronta, urheiluhieronta, aku-ja triggerpistekäsittelyt, fysioterapia, kinesioteippaus, intialainen päähieronta, lihastasapainokartoitus, kuntosaliopastus ja omaohjelmat.
-
-**MIKSI?:  1 Apua tuki- ja liikuntaelimistön oireiluun**  
-• niska-hartiaseudun kireys
-• päänsärky
-• alaselkäkivut -olkapäävaivat
-• alaraajan ongelmat • lihaskireys jne.
-**2 Ennaltaehkäisy**  • Istumatyön haittojen hallinta
-• lihashuolto
-• treenistä palautuminen
-
-
 **KIINNOSTUITKO?** Jos fysioterapeutin tai hierojan palvelujen järjestäminen yrityksessäsi tai jokin muu Virkisterin tarjoama palvelu kiinnostaa sinua, olethan yhteydessä!
 
 [riikka@virkisteri.fi](mailto:riikka@virkisteri.fi), puh. 040 5303 945.
