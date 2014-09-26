@@ -51,7 +51,7 @@ Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin til
 • alaraajan ongelmat
 • lihaskireys  
 **2 Ennaltaehkäisy**  
-• Istumatyön haittojen hallinta
+• Istumatyön haittojen hallinta  
 • lihashuolto
 • treenistä palautuminen
 
