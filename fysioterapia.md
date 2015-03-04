@@ -20,10 +20,10 @@ Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkis
 
 <table>
   <tr>
-    <th>Hieronta</th><td>30min – 35 €</td><td>45min – 45 €</td><td>60min – 55 €</td>
+    <th>Hieronta</th><td>30min – 40 €</td><td>45min – 50 €</td><td>60min – 60 €</td>
   </tr>
   <tr>
-    <th>Fysioterapia</th><td>30min – 45 €</td><td>45min – 55 €</td><td>60min – 65 €</td>
+    <th>Fysioterapia</th><td>30min – 50 €</td><td>45min – 60 €</td><td>60min – 70 €</td>
   </tr>
 </table>
 
@@ -60,7 +60,7 @@ Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin til
 
 <table>
   <tr>
-    <th>Hieronta & Fysioterapia</th><td>30min – 28 €</td><td>45min – 40 €</td><td>60min – 55 €</td>
+    <th>Hieronta & Fysioterapia</th><td>30min – 30 €</td><td>45min – 45 €</td><td>60min – 55 €</td>
   </tr>
 </table>
 
