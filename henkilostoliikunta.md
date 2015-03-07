@@ -15,14 +15,12 @@ Hyvää kuntoa voi ylläpitää vain säännöllisellä liikunnalla. Sitä ei vo
 
 Mielekkäin palvelukonaisuus riippuu organisaation koosta, sijainnista ja sukupuolijakaumasta. Lopullisesta liikuntapaketista löytyy yhden tai usean eri lajin yhdistelmä fysioterapeutin palveluilla tai hieronnalla höystettynä. 
 
-Suosituimpia liikuntatunteja ovat tällä hetkellä: kahvakuula, Piloxing, Zumba, terveselkä, pilates, CrossFit, Circuit, jooga, joogapilates, allasjumppa, army, steppi, pumppi ja kuntonyrkkeily. Kannattaa kysyä myös muita vaihtoehtoja!
-
 Palveluitamme käyttävät mm:
-OP-Pohjola, Sanomamagazines Finland, Skanska,
-Työterveyslaitos, Helsingin Energia, Stara, Kesko ja Helsingin kaupunki.
+Sanoma, Etera, Skanska,
+Työterveyslaitos, Helen, Stara, Kesko ja Helsingin kaupunki.
 
 ######Iloisessa liikunnassa, fysioterapiassa ja hieronnassa piilee onnen avaimet...
 
 [Virkisteriltä voit tilata myös fysioterapeutin tai hierojan yrityksen omiin tiloihin.](fysioterapia.html)
 
-Virkisterin palveluista vastaa työfysioterapeutti Riikka Ilmivalta ammattitaitoisine tiimeineen. Suunnitellaan yhdessä parhaiten toimiva ratkaisu teidän yrityksellenne! [riikka@virkisteri.fi](mailto:riikka@virkisteri.fi), puh. 040 5303 945.
+Palveluista vastaa Virkisterin moniammatillinen tiimi. Suunnitellaan yhdessä parhaiten toimiva ratkaisu teidän yrityksellenne! [riikka@virkisteri.fi](mailto:riikka@virkisteri.fi), puh. 040 5303 945.
