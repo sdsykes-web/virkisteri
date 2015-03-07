@@ -7,7 +7,7 @@ pageNumber: 0
 
 #### HELSINKI - ESPOO - VANTAA
 
-Virkisteri tarjoaa hyvinvointia yritys- ja yksityisasiakkaille pääkaupunkiseudun alueella. Henkilöstöliikunta ja kehonhuoltopalvelut hieronnasta henkilökohtaiseen ohjaukseen ovat kysytyimmät palvelumme. Meiltä saat kaiken tarvitsemasi avun, kun haluat huolehtia fyysisestä kunnostasi tai saada esim. istumatyön haitat hallintaan.
+Virkisteri tarjoaa hyvinvointia yritys- ja yksityisasiakkaille pääkaupunkiseudun alueella. Henkilöstöliikunta, hieronta ja fysioterapia, personal training sekä lihastasapainokartoitukset ovat suosittuja palvelujamme. Meiltä saat kaiken tarvitsemasi avun, kun haluat huolehtia fyysisestä kunnostasi tai saada esim. istumatyön haitat hallintaan.
 
 ######Fyysisestä kunnosta huolehtiminen on hyvinvoivaa arkea ylläpitävä voimavara
 
