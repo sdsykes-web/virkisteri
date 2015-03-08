@@ -8,7 +8,7 @@ pageNumber: 1
 
 ##### HELSINKI - ESPOO - VANTAA
 
-### Yritysten henkilöstöliikunta & tiiviskurssit<br>&mdash; Potkua työpäivään!
+### Henkilöstöliikunta & tiiviskurssit<br>&mdash; Potkua työpäivään!
 Henkilöstön hyvinvoinnilla ja yrityksen taloudellisella menestyksellä on tutkimusten mukaan selvä yhteys. Hyvä fyysinen kunto näkyy ja tuntuu: työkyky paranee ja sairauspoissaolot vähentyvät. Henkilöstön hyvinvointi näkyy suoraan viivan alla. Se on yrityksen tärkein voimavara.
 
 Hyvää kuntoa voi ylläpitää vain säännöllisellä liikunnalla. Sitä ei voi varastoida. Säännöllinen henkilöstöliikunta on paitsi tehokas, myös edullinen ratkaisu henkilöstön työkunnon kohottamiseen.
