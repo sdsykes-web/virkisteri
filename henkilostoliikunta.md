@@ -11,11 +11,11 @@ pageNumber: 1
 ### Henkilöstöliikunta & tiiviskurssit<br>&mdash; Potkua työpäivään!
 Henkilöstön hyvinvoinnilla ja yrityksen taloudellisella menestyksellä on tutkimusten mukaan selvä yhteys. Hyvä fyysinen kunto näkyy ja tuntuu: työkyky paranee ja sairauspoissaolot vähentyvät. Henkilöstön hyvinvointi näkyy suoraan viivan alla. Se on yrityksen tärkein voimavara.
 
-Hyvää kuntoa voi ylläpitää vain säännöllisellä liikunnalla. Sitä ei voi varastoida. Säännöllinen henkilöstöliikunta on paitsi tehokas, myös edullinen ratkaisu henkilöstön työkunnon kohottamiseen.
+HENKILÖSTÖLIIKUNTA: Hyvää kuntoa voi ylläpitää vain säännöllisellä liikunnalla. Sitä ei voi varastoida. Säännöllinen henkilöstöliikunta on paitsi tehokas, myös edullinen ratkaisu henkilöstön työkunnon kohottamiseen.
 
 Mielekkäin palvelukonaisuus riippuu organisaation koosta, sijainnista ja sukupuolijakaumasta. Lopullisesta liikuntapaketista löytyy yhden tai usean eri lajin yhdistelmä fysioterapeutin palveluilla tai hieronnalla höystettynä. 
 
-Paljon intoa, mutta vähän aikaa? Virkisteri tarjoaa yrityksille tiiviskursseja neljän kerran paketeissa. Kurssi on aikatauluystävällinen tapa saada vaihtelua vanhoihin rutiineihin. Hio tekniikkaasi tai heittäydy hulluttelemaan vaikkapa hikisen Kasaribikin pariin! Esimerkkikursseja: -5kg, Kuntosali Startti, Juoksu Startti, Aikuisbaletti, Bikram – alkuperäinen Hot Yoga, akrobatia- ja käsilläseisontakurssi jne. Voit tiedustella lajitarjontaa osoitteesta  [info@virkisteri.fi](mailto:info@virkisteri.fi)
+TIIVISKURSSIT: Paljon intoa, mutta vähän aikaa? Virkisteri tarjoaa yrityksille tiiviskursseja neljän kerran paketeissa. Kurssi on aikatauluystävällinen tapa saada vaihtelua vanhoihin rutiineihin. Hio tekniikkaasi tai heittäydy hulluttelemaan vaikkapa hikisen Kasaribikin pariin! Esimerkkikursseja: -5kg, Kuntosali Startti, Juoksu Startti, Aikuisbaletti, Bikram – alkuperäinen Hot Yoga, akrobatia- ja käsilläseisontakurssi jne. Voit tiedustella lajitarjontaa osoitteesta  [info@virkisteri.fi](mailto:info@virkisteri.fi)
 
 Palveluitamme käyttävät mm:
 Sanoma, Etera, Skanska,
