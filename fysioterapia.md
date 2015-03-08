@@ -26,7 +26,7 @@ Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkis
     <th>Fysioterapia</th><td>30min – 50 €</td><td>45min – 60 €</td><td>60min – 70 €</td>
   </tr>
   <tr>
-    <th>Lihastasapainokartoitus</th><td>30min –  €</td><td>45min –  €</td><td>60min –  €</td>
+    <th>Lihastasapainokartoitus</th><td></td><td></td><td>60min – 65 €</td>
   </tr>
 </table>
 
