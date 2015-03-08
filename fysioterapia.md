@@ -35,15 +35,13 @@ Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkis
 Virkisteriltä voi tilata fysioterapeutin, hierojan tai personal trainerin yrityksen omiin tiloihin. Kun palvelut ovat käden ulottuvilla, hoitokynnyskin on matala. Palvelu on kätevä kaikille, mutta erityisen hyvin se sopii henkilöille, joille työajan ulkopuoliset aikataulut ovat haasteellisia. Tarvitsemme vain vapaan tilan – pienikin riittää!
 
 
-**PALVELUT**  
+**HIERONTA- & FYSIOTERAPIAPALVELUT**  
 • Klassinen hieronta
 • urheiluhieronta
 • aku-ja triggerpistekäsittelyt
 • fysioterapia
 • kinesioteippaus
 • intialainen päähieronta
-• lihastasapainokartoitukset
-• personal training
 
 **LIHASTASAPAINOKARTOITUS** on kuin tuki-ja liikuntaelimistön vuosikatsastus. Fysioterapeutin tekemällä lihastasapainokartoituksella selvität tuki- ja liikuntaelimistösi tämänhetkisen toiminnan. Mikä on lihaksistosi yhteispeli? Missä kiristää, onko toispuoleisuutta, aktivoituuko tukilihaksisto oikein ja missä voisi olla syy toistuvaan oireiluun. Kartoituksen pohjalta saat henkilökohtaisen palautteen ja neuvot tuki- ja liikuntaelimistön tilanteen optimoimiseksi. Keho kuormittuu taloudelisemmin ja suorituskykysi paranee.
 
