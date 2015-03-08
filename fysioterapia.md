@@ -30,7 +30,7 @@ Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkis
   </tr>
 </table>
 
-### Kehonhuoltopalvelut yrityksen tiloissa &mdash; Istumatyön haitat hallintaan!
+### Kehonhuoltopalvelut yrityksen tiloissa<br>&mdash; Istumatyön haitat hallintaan!
 
 Virkisteriltä voi tilata fysioterapeutin, hierojan tai personal trainerin yrityksen omiin tiloihin. Kun palvelut ovat käden ulottuvilla, hoitokynnyskin on matala. Palvelu on kätevä kaikille, mutta erityisen hyvin se sopii henkilöille, joille työajan ulkopuoliset aikataulut ovat haasteellisia. Tarvitsemme vain vapaan tilan – pienikin riittää!
 
@@ -45,7 +45,7 @@ Virkisteriltä voi tilata fysioterapeutin, hierojan tai personal trainerin yrity
 • lihastasapainokartoitukset
 • personal training
 
-**Lihastasapainokartoitus** on kuin tuki-ja liikuntaelimistön vuosikatsastus. Fysioterapeutin tekemällä lihastasapainokartoituksella selvität tuki- ja liikuntaelimistösi tämänhetkisen toiminnan. Mikä on lihaksistosi yhteispeli? Missä kiristää, onko toispuoleisuutta, aktivoituuko tukilihaksisto oikein ja missä voisi olla syy toistuvaan oireiluun. Kartoituksen pohjalta saat henkilökohtaisen palautteen ja neuvot tuki- ja liikuntaelimistön tilanteen optimoimiseksi. Keho kuormittuu taloudelisemmin ja suorituskykysi paranee.
+**LIHASTASAPAINOKARTOITUS** on kuin tuki-ja liikuntaelimistön vuosikatsastus. Fysioterapeutin tekemällä lihastasapainokartoituksella selvität tuki- ja liikuntaelimistösi tämänhetkisen toiminnan. Mikä on lihaksistosi yhteispeli? Missä kiristää, onko toispuoleisuutta, aktivoituuko tukilihaksisto oikein ja missä voisi olla syy toistuvaan oireiluun. Kartoituksen pohjalta saat henkilökohtaisen palautteen ja neuvot tuki- ja liikuntaelimistön tilanteen optimoimiseksi. Keho kuormittuu taloudelisemmin ja suorituskykysi paranee.
 
 <table>
   <tr>
@@ -58,9 +58,8 @@ Virkisteriltä voi tilata fysioterapeutin, hierojan tai personal trainerin yrity
 
 Maksutapa: pankkikortti tai laskutus
 
-**Personal Training – Harjoittelustasi enemmän irti!** 
-Henkilökohtaisella ohjauksella onnistut! Personal training-palvelu sisältää neljä tapaamiskertaa. Paketteja voit ostaa yhden tai useamman aina tarpeesi mukaan. Kerro meille tavoitteestasi niin me kerromme kuinka se saavutetaan. Olipa tavoittteesi saada painoa hallintaan, parantaa juoksutekniikkaasi, aloittaa kuntosaliharjoittelu tai saada ohjausta kuinka harjoitella raskaana ollessa, niin meiltä saat apua onnistumiseen.
-
+**PERSONAL TRAINING** 
+Henkilökohtaisella ohjauksella onnistut! Kerro meille tavoitteestasi niin me kerromme kuinka se saavutetaan. Olipa tavoittteesi saada painoa hallintaan, parantaa juoksutekniikkaasi, aloittaa kuntosaliharjoittelu tai saada ohjausta kuinka harjoitella raskaana ollessa, niin meiltä saat apua onnistumiseen.
 
 <table>
     <tr>
@@ -70,7 +69,7 @@ Henkilökohtaisella ohjauksella onnistut! Personal training-palvelu sisältää 
 
 Maksutapa: pankkikortti,laskutus tai smartum-setelit.
 
-**Ajanvaraus:**   
+**Ajanvaraus ja yhteydenotto:**   
 [info@virkisteri.fi](mailto:info@virkisteri.fi) tai sms | puh 040 530 3945
 
 <!-- div>
@@ -78,6 +77,4 @@ Maksutapa: pankkikortti,laskutus tai smartum-setelit.
 </div -->
 
 
-**KIINNOSTUITKO?** Jos fysioterapeutin tai hierojan palvelujen järjestäminen yrityksessäsi tai jokin muu Virkisterin tarjoama palvelu kiinnostaa sinua, olethan yhteydessä!
-
-[info@virkisteri.fi](mailto:info@virkisteri.fi), puh. 040 5303 945.
+**KIINNOSTUITKO?** Jos fysioterapeutin tai hierojan palvelujen järjestäminen yrityksessäsi tai jokin muu Virkisterin tarjoama palvelu kiinnostaa sinua, olethan yhteydessä! [info@virkisteri.fi](mailto:info@virkisteri.fi), puh. 040 5303 945.
