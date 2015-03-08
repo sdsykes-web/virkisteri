@@ -25,44 +25,53 @@ Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkis
   <tr>
     <th>Fysioterapia</th><td>30min – 50 €</td><td>45min – 60 €</td><td>60min – 70 €</td>
   </tr>
+  <tr>
+    <th>Lihastasapainokartoitus</th><td>30min –  €</td><td>45min –  €</td><td>60min –  €</td>
+  </tr>
 </table>
 
-### Fysioterapia- ja hierontapalvelut<br>yrityksen tiloissa &mdash; Istumatyön haitat hallintaan!
+### Kehonhuoltopalvelut yrityksen tiloissa &mdash; Istumatyön haitat hallintaan!
 
-Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin tiloihin. Kun palvelut ovat käden ulottuvilla, hoitokynnyskin on matala. Palvelu on kätevä kaikille, mutta erityisen hyvin se sopii henkilöille, joille työajan ulkopuoliset aikataulut ovat haasteellisia. Tarvitsemme vain vapaan tilan – pienikin riittää!
+Virkisteriltä voi tilata fysioterapeutin, hierojan tai personal trainerin yrityksen omiin tiloihin. Kun palvelut ovat käden ulottuvilla, hoitokynnyskin on matala. Palvelu on kätevä kaikille, mutta erityisen hyvin se sopii henkilöille, joille työajan ulkopuoliset aikataulut ovat haasteellisia. Tarvitsemme vain vapaan tilan – pienikin riittää!
 
 
-**MITÄ?**  
+**PALVELUT**  
 • Klassinen hieronta
 • urheiluhieronta
 • aku-ja triggerpistekäsittelyt
 • fysioterapia
 • kinesioteippaus
 • intialainen päähieronta
-• lihastasapainokartoitus
-• kuntosaliopastus ja omaohjelmat
+• lihastasapainokartoitukset
+• personal training
 
-**MIKSI?**  
-**1 Apua tuki- ja liikuntaelimistön oireiluun**  
-• niska-hartiaseudun kireys
-• päänsärky
-• alaselkäkivut
-• olkapäävaivat
-• alaraajan ongelmat
-• lihaskireys  
-**2 Ennaltaehkäisy**  
-• Istumatyön haittojen hallinta  
-• lihashuolto
-• treenistä palautuminen
-
-**Ajanvaraus:** Työfysioterapeutti Riikka Ilmivalta  
-[riikka@virkisteri.fi](mailto:riikka@virkisteri.fi) tai sms | puh 040 530 3945
+**Lihastasapainokartoitus** on kuin tuki-ja liikuntaelimistön vuosikatsastus. Fysioterapeutin tekemällä lihastasapainokartoituksella selvität tuki- ja liikuntaelimistösi tämänhetkisen toiminnan. Mikä on lihaksistosi yhteispeli? Missä kiristää, onko toispuoleisuutta, aktivoituuko tukilihaksisto oikein ja missä voisi olla syy toistuvaan oireiluun. Kartoituksen pohjalta saat henkilökohtaisen palautteen ja neuvot tuki- ja liikuntaelimistön tilanteen optimoimiseksi. Keho kuormittuu taloudelisemmin ja suorituskykysi paranee.
 
 <table>
   <tr>
     <th>Hieronta & Fysioterapia</th><td>30min – 30 €</td><td>45min – 45 €</td><td>60min – 55 €</td>
   </tr>
+  <tr>
+    <th>Lihastasapainokartoitus</th><td></td><td></td><td>60min – 65 €</td>
+  </tr>
 </table>
+
+Maksutapa: pankkikortti tai laskutus
+
+**Personal Training – Harjoittelustasi enemmän irti!** 
+Henkilökohtaisella ohjauksella onnistut! Personal training-palvelu sisältää neljä tapaamiskertaa. Paketteja voit ostaa yhden tai useamman aina tarpeesi mukaan. Kerro meille tavoitteestasi niin me kerromme kuinka se saavutetaan. Olipa tavoittteesi saada painoa hallintaan, parantaa juoksutekniikkaasi, aloittaa kuntosaliharjoittelu tai saada ohjausta kuinka harjoitella raskaana ollessa, niin meiltä saat apua onnistumiseen.
+
+
+<table>
+    <tr>
+    <th>Personal training</th><td>1 x 60min - 70 €</td><td>4 x 60min - 298 €</td><td>8 x 60min - 549 €</td><td>15 x 60min - 998 €</td>
+  </tr>
+</table>
+
+Maksutapa: pankkikortti,laskutus tai smartum-setelit.
+
+**Ajanvaraus:**   
+[info@virkisteri.fi](mailto:info@virkisteri.fi) tai sms | puh 040 530 3945
 
 <!-- div>
 <span class="margin-indicator-container"><span class="margin-indicator">»</span><span class="calendar-links"><b>ajanvarauskalenteri</b> Etera | Helsingin Energia | Työterveyslaitos</span></span>
@@ -71,4 +80,4 @@ Virkisteriltä voi tilata fysioterapeutin tai hierojan myös yrityksen omiin til
 
 **KIINNOSTUITKO?** Jos fysioterapeutin tai hierojan palvelujen järjestäminen yrityksessäsi tai jokin muu Virkisterin tarjoama palvelu kiinnostaa sinua, olethan yhteydessä!
 
-[riikka@virkisteri.fi](mailto:riikka@virkisteri.fi), puh. 040 5303 945.
+[info@virkisteri.fi](mailto:info@virkisteri.fi), puh. 040 5303 945.
