@@ -15,7 +15,7 @@ HENKILÖSTÖLIIKUNTA: Hyvää kuntoa voi ylläpitää vain säännöllisellä li
 
 Mielekkäin palvelukonaisuus riippuu organisaation koosta, sijainnista ja sukupuolijakaumasta. Lopullisesta liikuntapaketista löytyy yhden tai usean eri lajin yhdistelmä fysioterapeutin palveluilla tai hieronnalla höystettynä. 
 
-TIIVISKURSSIT: Paljon intoa, mutta vähän aikaa? Virkisteri tarjoaa yrityksille tiiviskursseja neljän kerran paketeissa. Kurssi on aikatauluystävällinen tapa saada vaihtelua vanhoihin rutiineihin. Hio tekniikkaasi tai heittäydy hulluttelemaan vaikkapa hikisen Kasaribikin pariin! Esimerkkikursseja: -5kg, Kuntosali Startti, Juoksu Startti, Aikuisbaletti, Bikram – alkuperäinen Hot Yoga, akrobatia- ja käsilläseisontakurssi jne. Voit tiedustella lajitarjontaa osoitteesta  [info@virkisteri.fi](mailto:info@virkisteri.fi)
+TIIVISKURSSIT: Paljon intoa, mutta vähän aikaa? Virkisteri tarjoaa yrityksille tiiviskursseja neljän kerran paketeissa. Kurssi on aikatauluystävällinen tapa saada vaihtelua vanhoihin rutiineihin. Hio tekniikkaasi tai heittäydy hulluttelemaan vaikkapa hikisen Kasaribikin pariin! Esimerkkikursseja: -5kg, Kuntosali Startti, Juoksu Startti, Aikuisbaletti, Bikram &mdash; alkuperäinen Hot Yoga, akrobatia- ja käsilläseisontakurssi jne. Voit tiedustella lajitarjontaa osoitteesta  [info@virkisteri.fi](mailto:info@virkisteri.fi)
 
 Palveluitamme käyttävät mm:
 Sanoma, Etera, Skanska,
