@@ -77,4 +77,4 @@ Maksutapa: pankkikortti,laskutus tai smartum-setelit.
 </div -->
 
 
-**KIINNOSTUITKO?** Jos fysioterapeutin tai hierojan palvelujen järjestäminen yrityksessäsi tai jokin muu Virkisterin tarjoama palvelu kiinnostaa sinua, olethan yhteydessä! [info@virkisteri.fi](mailto:info@virkisteri.fi), puh. 040 5303 945.
+**KIINNOSTUITKO?** Jos fysioterapeutin, hierojan tai personal trainerin palvelujen järjestäminen yrityksessäsi tai jokin muu Virkisterin tarjoama palvelu kiinnostaa sinua, olethan yhteydessä! [info@virkisteri.fi](mailto:info@virkisteri.fi), puh. 040 5303 945.
