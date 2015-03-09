@@ -30,7 +30,7 @@ Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkis
   </tr>
 </table>
 
-**LAHJAKORTIT:** Virkisteriltä saat myös upeat lahjakortit joilla voit kiittää henkilökuntaasi, tai ilahduttaa työtoveria!
+**LAHJAKORTIT:** Virkisteriltä saat upeat lahjakortit joilla voit ilahduttaa ystäviä ja rakkaitasi!
 
 ### Kehonhuoltopalvelut yrityksen tiloissa<br>&mdash; Istumatyön haitat hallintaan!
 
