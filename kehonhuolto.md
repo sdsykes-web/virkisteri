@@ -54,7 +54,7 @@ Henkilökohtaisella ohjauksella onnistut! Kerro meille tavoitteestasi niin me ke
 
 Maksutapa: pankkikortti,laskutus tai smartum-setelit.
 
-**Ajanvaraus ja yhteydenotto:**   
+**<span class="grey">Ajanvaraus ja yhteydenotto:</span>**   
 [info@virkisteri.fi](mailto:info@virkisteri.fi) tai sms | puh 040 530 3945
 
 <!-- div>

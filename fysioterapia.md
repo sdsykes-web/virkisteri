@@ -13,9 +13,9 @@ Kolottaako? Epämukavuuden tunnetta? Väsyykö niskasi tai selkäsi työpäivän
 
 ###### Meiltä saat apua hyvinvointiisi ja työntekoosi vaikuttaviin tuki- ja liikuntaelinoireisiin.
 
-**Vastaanotto:** Teramus Munkkiniemi, Laajalahdentie 16 b, Helsinki, [www.teramus.fi](http://www.teramus.fi)
+**<span class="grey">Vastaanotto:</span>** Teramus Munkkiniemi, Laajalahdentie 16 b, Helsinki, [www.teramus.fi](http://www.teramus.fi)
 
-**Ajanvaraus:** Teramuksen ajanvaraus (09) 445 045  
+**<span class="grey">Ajanvaraus:</span>** Teramuksen ajanvaraus (09) 445 045  
 Työfysioterapeutti Riikka Ilmivalta [riikka@virkisteri.fi](mailto:riikka@virkisteri.fi) tai sms | puh 040 530 3945
 
 <table>
