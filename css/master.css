@@ -15,9 +15,9 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 
 #background {
   background-image: url(../images/virkisteri_background.png);
-  webkit-background-size: cover;
-  moz-background-size: cover;
-  o-background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   text-align: left;
 }
@@ -150,7 +150,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
   left: 0px;
   width: 240px;
   height: 335px;
-  background-image: url(../images/virk_ryhma_2@2x.jpg);
+  background-image: url(../images/virk_fysio_2@2x.jpg);
   background-size: 240px 335px;
 }
 #pic2-3 {
@@ -168,7 +168,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
   left: 0px;
   width: 240px;
   height: 335px;
-  background-image: url(../images/virk_fysio_2@2x.jpg);
+  background-image: url(../images/virk_ryhma_2@2x.jpg);
   background-size: 240px 335px;
 }
 
@@ -272,6 +272,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
   letter-spacing: 2px;
 }
 #contact-email {
+  letter-spacing: 0.5px;
 }
 #contact-phone {
 }
@@ -295,6 +296,10 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
   margin-left: 139px;
   margin-right: 139px;
   margin-top: 10px;
+}
+
+#content p strong {
+  color: #80133a;
 }
 
 #content h1 {
