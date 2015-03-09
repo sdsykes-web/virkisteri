@@ -25,4 +25,4 @@ Työterveyslaitos, Helen, Stara, Kesko ja Helsingin kaupunki.
 
 [Virkisteriltä voit tilata myös fysioterapeutin tai hierojan yrityksen omiin tiloihin.](fysioterapia.html)
 
-Palveluista vastaa Virkisterin moniammatillinen tiimi. Suunnitellaan yhdessä parhaiten toimiva ratkaisu teidän yrityksellenne! [info@virkisteri.fi](mailto:info@virkisteri.fi), puh. 040 5303 945.
+Palveluista vastaa Virkisterin moniammatillinen tiimi. Suunnitellaan yhdessä parhaiten toimiva ratkaisu teidän yrityksellenne! [info@virkisteri.fi](mailto:info@virkisteri.fi),<br>puh. 040 5303 945.
