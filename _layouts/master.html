@@ -63,35 +63,40 @@
               </div>
               <div id="pic2-{{ page.pageNumber }}"></div>
             </div>
-            {% if page.pageNumber == 0 or page.pageNumber == 2 %}
+            {% if ppage.pageNumber == 2 %}
               <div id="pic1-2"></div>
             {% else %}
               <div id="pic1"></div>
             {% endif %}            
           </div>
           <ul id="menu">
-            <a href="henkilostoliikunta.html"><li id="menu1" class="{{ page.menu1 }}">henkilöstöliikunta</li></a>
-            <a href="liikunta.html"><li id="menu2" class="{{ page.menu2 }}">ryhmäliikunta</li></a>
+            <a href="henkilostoliikunta.html"><li id="menu1">
+              <div class="top-menu-box">YRITYSPALVELUT</div>
+              <div class="bottom-menu-box {{ page.menu1 }}">henkilöstöliikunta<br>&amp; tiiviskurssit</div>
+            </li></a>
+            <a href="kehonhuolto.html"><li id="menu2">
+              <div class="top-menu-box">HENKILÖSTÖPALVELUT</div>
+              <div class="bottom-menu-box {{ page.menu2 }}">kehonhuolto</div>
+            </li></a>
             <!-- a href="tunnit.html"><li id="menu3" class="{{ page.menu3 }}">tunnit &amp; kurssit</li></a -->
-            <a href="fysioterapia.html"><li id="menu4" class="{{ page.menu4 }}">fysioterapia &amp; hieronta</li></a>
+            <a href="fysioterapia.html"><li id="menu4">
+              <div class="top-menu-box">AVOIMET PALVELUT</div>
+              <div class="bottom-menu-box {{ page.menu4 }}">hieronta &amp; fysioterapia</div>
+            </li></a>
           </ul>
-          <!-- div id="reservation-pointer">»</div>
+          <div id="reservation-pointer">»</div>
           <div id="reservation-text">
-            <a href="ajanvaraus.html">
-            ajanvaraus
-            <br>
-            työpaikkahieronta
-            <br>
-            ja -fysioterapia
+            <a href="homeexcercise.html">
+            kotiharjoitus-<br>vinkkejä
             </a>
-          </div -->
+          </div>
           <div id="contact">
             <div id="contact-text">
               <div id="contact-take">
                 OTA YHTEYTTÄ!
               </div>
               <div id="contact-email">
-                <a href="mailto:riikka@virkisteri.fi">riikka@virkisteri.fi</a>
+                <a href="mailto:info@virkisteri.fi">info@virkisteri.fi</a>
               </div>
               <div id="contact-phone">
                 puh. 040 5303 945

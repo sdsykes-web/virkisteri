@@ -3,7 +3,7 @@ layout: master
 pageNumber: 0
 ---
 
-# Henkilöstöliikunta | Liikunta- ja fysioterapiapalvelut
+# Henkilöstöliikunta | Kehonhuoltopalvelut yrityksen tiloissa
 
 #### HELSINKI - ESPOO - VANTAA
 
