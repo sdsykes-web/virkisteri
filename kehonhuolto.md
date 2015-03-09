@@ -10,7 +10,7 @@ pageNumber: 2
 
 ### Kehonhuoltopalvelut yrityksen tiloissa<br>&mdash; Istumatyön haitat hallintaan!
 
-Virkisteriltä voi tilata fysioterapeutin, hierojan tai personal trainerin yrityksen omiin tiloihin. Kun palvelut ovat käden ulottuvilla, hoitokynnyskin on matala. Palvelu on kätevä kaikille, mutta erityisen hyvin se sopii henkilöille, joille työajan ulkopuoliset aikataulut ovat haasteellisia. Tarvitsemme vain vapaan tilan – pienikin riittää!
+Virkisteriltä voi tilata fysioterapeutin, hierojan tai personal trainerin yrityksen omiin tiloihin henkilöstön käyttöön. Kun palvelut ovat käden ulottuvilla, hoitokynnyskin on matala. Palvelu on kätevä kaikille, mutta erityisen hyvin se sopii henkilöille, joille työajan ulkopuoliset aikataulut ovat haasteellisia. Tarvitsemme vain vapaan tilan – pienikin riittää!
 
 
 **HIERONTA- & FYSIOTERAPIAPALVELUT**  
@@ -34,7 +34,7 @@ Virkisteriltä voi tilata fysioterapeutin, hierojan tai personal trainerin yrity
 
 Maksutapa: pankkikortti tai laskutus
 
-**PERSONAL TRAINING** 
+**PERSONAL TRAINING:** 
 Henkilökohtaisella ohjauksella onnistut! Kerro meille tavoitteestasi niin me kerromme kuinka se saavutetaan. Olipa tavoittteesi saada painoa hallintaan, parantaa juoksutekniikkaasi, aloittaa kuntosaliharjoittelu tai saada ohjausta kuinka harjoitella raskaana ollessa, niin meiltä saat apua onnistumiseen.
 
 <table>
@@ -63,3 +63,5 @@ Maksutapa: pankkikortti,laskutus tai smartum-setelit.
 
 
 **KIINNOSTUITKO?** Jos fysioterapeutin, hierojan tai personal trainerin palvelujen järjestäminen yrityksessäsi tai jokin muu Virkisterin tarjoama palvelu kiinnostaa sinua, olethan yhteydessä! [info@virkisteri.fi](mailto:info@virkisteri.fi), puh. 040 5303 945.
+
+**LAHJAKORTIT:** Virkisteriltä saat myös upeat lahjakortit joilla voit kiittää henkilökuntaasi, tai ilahduttaa työtoveria!
