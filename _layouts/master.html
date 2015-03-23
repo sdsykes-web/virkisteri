@@ -10,6 +10,7 @@
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
   {% if page.pageNumber != 3 and page.pageNumber != 4 %}
   <script>
+$( document ).ready(function() {
   setTimeout(function() {
     $('#fade-box').css("visibility", "visible");
     $('#pic2-{{ page.pageNumber }}').fadeOut(500,
@@ -24,6 +25,7 @@
       }
     );
   }, 5000);
+});
   </script>
   {% endif %}
 </head>
