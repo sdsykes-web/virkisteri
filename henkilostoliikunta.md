@@ -15,7 +15,7 @@ Henkilöstön hyvinvoinnilla ja yrityksen taloudellisella menestyksellä on tutk
 
 Mielekkäin palvelukonaisuus riippuu organisaation koosta, sijainnista ja sukupuolijakaumasta. Lopullisesta liikuntapaketista löytyy yhden tai usean eri lajin yhdistelmä fysioterapeutin palveluilla tai hieronnalla höystettynä. 
 
-**TIIVISKURSSIT:** Paljon intoa, mutta vähän aikaa? Virkisteri tarjoaa yrityksille henkilöstölle tarkoitettuja tiiviskursseja neljän kerran paketeissa. Kurssi on aikatauluystävällinen tapa saada vaihtelua vanhoihin rutiineihin. Hio tekniikkaasi tai heittäydy hulluttelemaan vaikkapa hikisen Kasaribikin pariin! Esimerkkikursseja: -5kg, Kuntosali Startti, Juoksu Startti, aikuisbaletti, [Bikram &mdash; alkuperäinen Hot Yoga](http://lifted.fi/2015/02/22/suorituskykya-tasapainoa-ja-hyvaa-oloa-bikram-joogasta/), akrobatia, [kehonpainoharjoittelu](https://vimeo.com/94644936/)jne. Voit tiedustella lajitarjontaa osoitteesta  [info@virkisteri.fi](mailto:info@virkisteri.fi)
+**TIIVISKURSSIT:** Paljon intoa, mutta vähän aikaa? Virkisteri tarjoaa yrityksille henkilöstölle tarkoitettuja tiiviskursseja neljän kerran paketeissa. Kurssi on aikatauluystävällinen tapa saada vaihtelua vanhoihin rutiineihin. Hio tekniikkaasi tai heittäydy hulluttelemaan vaikkapa hikisen Kasaribikin pariin! Esimerkkikursseja: -5kg, Kuntosali Startti, Juoksu Startti, aikuisbaletti, [Bikram &mdash; alkuperäinen Hot Yoga](http://lifted.fi/2015/02/22/suorituskykya-tasapainoa-ja-hyvaa-oloa-bikram-joogasta/), akrobatia, [kehonpainoharjoittelu](https://vimeo.com/94644936/) jne. Tiedustele lajitarjontaa osoitteesta  [info@virkisteri.fi](mailto:info@virkisteri.fi)
 
 Palveluitamme käyttävät mm:
 Sanoma, Etera, Skanska,
