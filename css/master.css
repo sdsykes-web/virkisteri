@@ -14,12 +14,24 @@ body {
 h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 
 #background {
-  background-image: url(../images/virkisteri_background.png);
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  text-align: left;
+  background: url(../images/virkisteri_bg_middle_w.png) center repeat-y;
+  background-size: 100% auto;
+}
+
+#background #top-background {
+  background: url(../images/virkisteri_bg_top_w.png) center no-repeat;
+  background-position: top;
+  background-size: 100% auto;
+  height: 708px;
+  margin-bottom: -708px;
+}
+
+#background #bottom-background {
+  background: url(../images/virkisteri_bg_bottom_w.png) center no-repeat;
+  background-size: 100% auto;
+  background-position: bottom;
+  height: 716px;
+  margin-top: -716px;
 }
 
 #shadow {
@@ -34,6 +46,7 @@ h1,h2,h3,h4,h5,h6,p {margin:0;padding:0}
 
 #main-relative {
   position: relative;
+  text-align: left;
 }
 
 #logo {
