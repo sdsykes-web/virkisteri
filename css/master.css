@@ -457,3 +457,11 @@ a {
 #yoga-images {
   margin-left: 40px;
 }
+
+.center-video {
+  margin-top: 20px;
+  text-align: center;
+  background-color: #e8e8e8;
+  margin-left:40px;
+  margin-right:48px;
+}
